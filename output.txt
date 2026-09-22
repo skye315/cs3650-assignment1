@@ -1,1 +1,54 @@
 # Simply copy and paste the output from your terminal here!
+[skyekaden@login-students ~]$ pwd
+/home/skyekaden
+[skyekaden@login-students ~]$ mkdir cs3650
+[skyekaden@login-students ~]$ nano
+[skyekaden@login-students ~]$ ls
+cs3650
+[skyekaden@login-students ~]$ pwd
+/home/skyekaden
+[skyekaden@login-students ~]$ mkdir
+mkdir: missing operand
+Try 'mkdir --help' for more information.
+[skyekaden@login-students ~]$ mkdir new
+[skyekaden@login-students ~]$ rmdir
+rmdir: missing operand
+Try 'rmdir --help' for more information.
+[skyekaden@login-students ~]$ rmdir new
+[skyekaden@login-students ~]$ 
+[skyekaden@login-students ~]$ 
+[skyekaden@login-students ~]$ 
+[skyekaden@login-students ~]$ 
+[skyekaden@login-students ~]$ 
+[skyekaden@login-students ~]$ pwd
+/home/skyekaden
+[skyekaden@login-students ~]$ ls
+cs3650
+[skyekaden@login-students ~]$ mkdir newfolder
+[skyekaden@login-students ~]$ ls
+cs3650  newfolder
+[skyekaden@login-students ~]$ ps
+    PID TTY          TIME CMD
+3816006 pts/14   00:00:00 bash
+3816717 pts/14   00:00:00 ps
+[skyekaden@login-students ~]$ whoami
+skyekaden
+[skyekaden@login-students ~]$ sort
+
+^X
+^X
+^X
+^C
+[skyekaden@login-students ~]$ cd newfolder
+[skyekaden@login-students newfolder]$ 
+[skyekaden@login-students newfolder]$ echo "testing print"
+testing print
+[skyekaden@login-students newfolder]$ cd login-students
+-bash: cd: login-students: No such file or directory
+[skyekaden@login-students newfolder]$ rmdir newfolder
+rmdir: failed to remove 'newfolder': No such file or directory
+[skyekaden@login-students newfolder]$ pwd
+/home/skyekaden/newfolder
+[skyekaden@login-students newfolder]$ cd /home/skyekaden
+[skyekaden@login-students ~]$ rmdir newfolder
+[skyekaden@login-students ~]$ 
